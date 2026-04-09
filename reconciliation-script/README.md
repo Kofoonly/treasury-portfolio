@@ -20,8 +20,8 @@ This Python script automates the reconciliation process. It loads both datasets,
 ## Files in this folder
 | File | Description |
 |------|-------------|
-| `reconcile_improved.ipynb` | The full Python script (run in Google Colab / Jupyter) |
-| `sample_report.csv` | Example output using the included sample data |
+| `Reconcilation_report.ipynb` | The full Python script (run in Google Colab / Jupyter) |
+| `reconciliation_report.csv` | Example output using the included sample data |
 | `README.md` | This file |
 
 ## How to run
@@ -45,7 +45,3 @@ This Python script automates the reconciliation process. It loads both datasets,
 - Report generation for stakeholders
 - Version control (GitHub)
 
-## Next improvements planned
-- Add support for uploading CSV files directly (instead of hardcoded data)
-- Send email alerts for critical discrepancies
-- Build a simple dashboard using Streamlit
