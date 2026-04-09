@@ -3,9 +3,9 @@
 Final-year Finance student at University of Lagos.  
 Interested in corporate treasury, payments operations, and transaction banking.
 
-[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
+[![Python](https://img.shields.io/badge/Python-3.0+-blue.svg)](https://python.org)
 [![pandas](https://img.shields.io/badge/pandas-2.0+-150458.svg)](https://pandas.pydata.org)
-[![Excel](https://img.shields.io/badge/Excel-Advanced-green.svg)](https://microsoft.com)
+[![Excel](https://img.shields.io/badge/Excel-Intermediate-green.svg)](https://microsoft.com)
 
 ## Projects
 
@@ -14,8 +14,7 @@ Interested in corporate treasury, payments operations, and transaction banking.
 - **Features:** Exact match on transaction ID + fuzzy match on amount, recipient name, and date tolerance (±1 day).
 - **Tech:** Python (pandas, datetime)
 - **Folder:** [reconciliation-script/](reconciliation-script/)
-- **Notebook:** [Reconcilation_report.ipynb](payment-reconciliation/Reconcilation_report.ipynb)
-- **Sample output:** [reconcilation_report.csv](payment-reconciliation/reconcilation_report.csv)
+
 
 ### 2. 13‑Week Cash Flow Forecasting Model (Excel) – *Coming next*
 - **Goal:** Build a rolling cash forecast using historical AR/AP data with scenario analysis.
