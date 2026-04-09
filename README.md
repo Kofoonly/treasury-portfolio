@@ -3,22 +3,26 @@
 Final-year Finance student at University of Lagos.  
 Interested in corporate treasury, payments operations, and transaction banking.
 
+[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
+[![pandas](https://img.shields.io/badge/pandas-2.0+-150458.svg)](https://pandas.pydata.org)
+[![Excel](https://img.shields.io/badge/Excel-Advanced-green.svg)](https://microsoft.com)
+
 ## Projects
 
-### 1. Payment Reconciliation Automation (Python/SQL)
-- **Goal:** Match internal payment records with bank statement entries, flag discrepancies, and generate a reconciliation report.
-- **Tech:** Python (pandas) or SQL (PostgreSQL)
-- **Status:** Coming soon – script and sample data
+### 1. Payment Reconciliation Automation (Python/pandas) ✅
+- **Goal:** Match internal payment records with bank statements, flag discrepancies (missing, mismatched, extra), and generate a reconciliation report.
+- **Features:** Exact match on transaction ID + fuzzy match on amount, recipient name, and date tolerance (±1 day).
+- **Tech:** Python (pandas, datetime)
+- **Folder:** [reconciliation-script/](reconciliation-script/)
+- **Notebook:** [Reconcilation_report.ipynb](payment-reconciliation/Reconcilation_report.ipynb)
+- **Sample output:** [reconcilation_report.csv](payment-reconciliation/reconcilation_report.csv)
 
-### 2. 13‑Week Cash Flow Forecasting Model (Excel)
+### 2. 13‑Week Cash Flow Forecasting Model (Excel) – *Coming next*
 - **Goal:** Build a rolling cash forecast using historical AR/AP data with scenario analysis.
 - **Tech:** Excel (pivot tables, SUMIFS, data tables)
-- **Status:** Coming soon – Excel file with instructions
 
-### 3. Working Capital Analysis – Dangote Cement (Python/Excel)
+### 3. Working Capital Analysis – Dangote Cement (Python/Excel) – *Planned*
 - **Goal:** Analyze cash conversion cycle, payment terms, and liquidity risk.
-- **Tech:** Python or Excel
-- **Status:** Coming soon
 
 ## Skills Demonstrated
 - Receivables tracking & reconciliation
@@ -28,6 +32,6 @@ Interested in corporate treasury, payments operations, and transaction banking.
 - Microsoft Excel (lookups, pivot tables, aging schedules)
 
 ## Contact
-- [LinkedIn]
-- (http://linkedin.com/in/kofoworola-adetona)
+- [LinkedIn](https://linkedin.com/in/kofoworola-adetona)
 - [Email](mailto:adetonakofoworola@gmail.com)
+- [GitHub](https://github.com/yourusername/treasury-portfolio) (you're here)
