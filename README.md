@@ -1,6 +1,6 @@
 # Kofoworola Adetona – Treasury & Payments Portfolio
 
-Final-year Finance student at University of Lagos.  
+Finance student(2026)at University of Lagos.  
 Interested in corporate treasury, payments operations, and transaction banking.
 
 [![Python](https://img.shields.io/badge/Python-3.0+-blue.svg)](https://python.org)
