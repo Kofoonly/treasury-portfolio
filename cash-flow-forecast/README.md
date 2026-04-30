@@ -2,7 +2,7 @@
 
 ## Problem
 
-Treasury teams need to know — week by week — whether the business will have enough cash to meet its obligations. Without a structured forecast, companies risk:
+Treasury teams need to know whether the business will have enough cash to meet its obligations. Without a structured forecast, companies risk:
 
 - Missing supplier payments or salary runs
 - Breaching minimum cash covenants with lenders
