@@ -20,7 +20,7 @@ This Excel model automates the 13-week cash flow forecast for a simulated Nigeri
 
 | File | Description |
 |---|---|
-| `Cash_Flow_Forecast_Kofoworola_Adetona_FINAL.xlsx` | Full Excel workbook — 6 sheets, 1,000 transactions, 903 live formulas |
+| `Cash_Flow_Forecast_Project.xlsx` | 
 | `README.md` | This file |
 
 ## How to Use
