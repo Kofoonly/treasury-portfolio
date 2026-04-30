@@ -16,9 +16,11 @@ Interested in corporate treasury, payments operations, and transaction banking.
 - **Folder:** [reconciliation-script/](reconciliation-script/)
 
 
-### 2. 13‑Week Cash Flow Forecasting Model (Excel) – *Coming next*
+### 2. 13‑Week Cash Flow Forecasting Model (Excel) ✅
 - **Goal:** Build a rolling cash forecast using historical AR/AP data with scenario analysis.
 - **Tech:** Excel (pivot tables, SUMIFS, data tables)
+- **Folder:** [cash-flow-forecast/](cash-flow-forecast/)
+
 
 ### 3. Working Capital Analysis – Dangote Cement (Python/Excel) – *Planned*
 - **Goal:** Analyze cash conversion cycle, payment terms, and liquidity risk.
@@ -33,4 +35,4 @@ Interested in corporate treasury, payments operations, and transaction banking.
 ## Contact
 - [LinkedIn](https://linkedin.com/in/kofoworola-adetona)
 - [Email](mailto:adetonakofoworola@gmail.com)
-- [GitHub](https://github.com/yourusername/treasury-portfolio) (you're here)
+
